@@ -1,4 +1,10 @@
 Hello 
 Welcome to GitHub 
+<<<<<<< HEAD
 hii i am naga 
 10:51
+=======
+Hello World !!!
+Hi this is koshi 
+hellooo ra
+>>>>>>> 52918cd7b15582c962f46e896f0594652eb4dc2e
